@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/project/web/sudoku/src/js/index.js" timestamp="1513427986934" />
+      <file name="D:/project/web/sudoku/src/js/index.js" timestamp="1513429127055">
+        <mark key="[" line="7" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
@@ -12,6 +14,10 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

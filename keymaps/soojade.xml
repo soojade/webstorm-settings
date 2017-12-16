@@ -1,0 +1,15 @@
+<keymap version="1" name="soojade" parent="$default">
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="clearBackgroundImage">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="randomBackgroundImage">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="setBackgroundImage">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>
