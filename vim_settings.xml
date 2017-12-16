@@ -2,7 +2,9 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="D:/project/web/sudoku/src/js/index.js" timestamp="1513427986934" />
+    </filemarks>
     <jumps />
     <registers />
     <search>
