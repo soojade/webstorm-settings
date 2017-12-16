@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="randomBackgroundImage">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="setBackgroundImage">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>

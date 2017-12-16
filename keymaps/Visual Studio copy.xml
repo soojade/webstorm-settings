@@ -1,0 +1,12 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="randomBackgroundImage">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="setBackgroundImage">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>
