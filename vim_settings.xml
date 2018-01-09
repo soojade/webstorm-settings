@@ -6,6 +6,7 @@
       <file name="D:/project/web/sudoku/src/js/index.js" timestamp="1513429127055">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/web/lottery-with-es2015/index.html" timestamp="1515421729037" />
     </filemarks>
     <jumps />
     <registers />
@@ -13,7 +14,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
