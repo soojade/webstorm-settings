@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>5</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -86,7 +86,15 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>34</Count>
+          <Count>35</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -126,17 +134,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置(T)...</Description>
-          <Count>20</Count>
-        </Item>
-      </Statistic>
-    </option>
-    <option name="suppressed">
-      <Statistic Action="Terminal">
-        <Item>
-          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'Alt+F12'</ShortCut>
-          <Description>Terminal</Description>
-          <Count>14</Count>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
