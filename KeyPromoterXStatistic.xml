@@ -145,6 +145,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="设置...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>设置...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Terminal">
