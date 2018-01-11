@@ -145,6 +145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="粘贴">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>粘贴</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="设置(T)...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
