@@ -6,17 +6,105 @@
       <file name="D:/project/web/sudoku/src/js/index.js" timestamp="1513429127055">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="E:/WorkSpace/web/hello/src/app/app.module.ts" timestamp="1515596372079">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+      </file>
+      <file name="/media/mistymoon/工程/WorkSpace/web/hello/src/app/app.component.html" timestamp="1515592239088">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/WorkSpace/web/hello/src/app/app.component.html" timestamp="1515661929766">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="1" column="30" filename="/media/mistymoon/工程/WorkSpace/web/hello/src/app/app.component.html" />
+      <jump line="0" column="0" filename="/media/mistymoon/工程/WorkSpace/web/hello/src/app/app.component.html" />
+      <jump line="1" column="0" filename="E:/WorkSpace/web/hello/src/app/app.component.html" />
+      <jump line="2" column="0" filename="E:/WorkSpace/web/hello/src/app/app.component.html" />
+      <jump line="7" column="48" filename="E:/WorkSpace/web/hello/src/app/app.component.html" />
+      <jump line="0" column="0" filename="E:/WorkSpace/web/hello/src/app/app.component.html" />
+      <jump line="8" column="0" filename="E:/WorkSpace/web/hello/src/app/app.component.html" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">PGJ1dHRvbiBuei1idXR0b24gbnpUeXBlPSJwcmltYXJ5Ij5wcmltYXJ5PC9idXR0b24+Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PGJ1dHRvbiBuei1idXR0b24gbnpUeXBlPSJwcmltYXJ5Ij5wcmltYXJ5PC9idXR0b24+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PGJ1dHRvbiBuei1idXR0b24gbnpUeXBlPSJwcmltYXJ5Ij5wcmltYXJ5PC9idXR0b24+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PGJ1dHRvbiBuei1idXR0b24gbnpUeXBlPSJwcmltYXJ5Ij5wcmltYXJ5PC9idXR0b24+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PGJ1dHRvbiBuei1idXR0b24gbnpUeXBlPSJwcmltYXJ5Ij5wcmltYXJ5PC9idXR0b24+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PGJ1dHRvbiBuei1idXR0b24gbnpUeXBlPSJkYW5nZXIiPmRhbm5lcjwvYnV0dG9uPj4+Pgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PGgxPmhlbGxvIGFuZ3VsYXI8L2gxPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
