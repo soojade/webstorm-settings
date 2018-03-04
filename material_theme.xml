@@ -6,11 +6,10 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="accentColor" value="dc8400" />
+    <option name="accentColor" value="eb9602" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="33" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="upperCaseTabs" value="true" />
     <option name="darkTitleBar" value="true" />
   </component>
 </application>
