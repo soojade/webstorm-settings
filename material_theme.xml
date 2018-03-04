@@ -2,13 +2,15 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.0.4" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColor" value="00ff23" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="accentColor" value="7cb342" />
+    <option name="accentColor" value="dc8400" />
     <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="35" />
+    <option name="tabsHeight" value="33" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="upperCaseTabs" value="true" />
+    <option name="darkTitleBar" value="true" />
   </component>
 </application>
