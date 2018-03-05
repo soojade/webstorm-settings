@@ -6,14 +6,18 @@
       <file name="D:/project/web/sudoku/src/js/index.js" timestamp="1513429127055">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="/media/mistymoon/工程/WorkSpace/web/hello/src/app/app.module.ts" timestamp="1515591903641" />
-      <file name="/media/mistymoon/工程/WorkSpace/web/hello/src/main.ts" timestamp="1515591886993" />
-      <file name="/media/mistymoon/工程/WorkSpace/web/hello/src/index.html" timestamp="1515591856049" />
+      <file name="/media/mistymoon/工程/WorkSpace/web/hello/src/app/app.module.ts" timestamp="1515592862393">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+      </file>
       <file name="/media/mistymoon/工程/WorkSpace/web/hello/src/app/app.component.html" timestamp="1515592239088">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/mistymoon/工程/WorkSpace/web/hello/package.json" timestamp="1515592605304" />
     </filemarks>
     <jumps>
       <jump line="1" column="30" filename="/media/mistymoon/工程/WorkSpace/web/hello/src/app/app.component.html" />
