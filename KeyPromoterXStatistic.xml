@@ -145,12 +145,52 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="关闭缩略图">
+        <Item>
+          <IdeaActionID>Images.Thumbnails.Hide</IdeaActionID>
+          <ShortCut>'Ctrl+F4'</ShortCut>
+          <Description>关闭缩略图</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="升级">
+        <Item>
+          <IdeaActionID>Images.Thumbnails.UpFolder</IdeaActionID>
+          <ShortCut>'Backspace'</ShortCut>
+          <Description>升级</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="显示缩略图">
+        <Item>
+          <IdeaActionID>Images.ShowThumbnails</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+T'</ShortCut>
+          <Description>显示缩略图</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="设置(T)...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置(T)...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="设置...(T)">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>设置...(T)</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="递归">
+        <Item>
+          <IdeaActionID>Images.Thumbnails.ToggleRecursive</IdeaActionID>
+          <ShortCut>'Alt+NumPad *'</ShortCut>
+          <Description>递归</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
