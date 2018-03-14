@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Random Background Image">
@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -185,6 +185,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="切换行断点(L)">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>切换行断点(L)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="声明(D)">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -206,7 +214,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置...(T)</Description>
-          <Count>7</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
     </option>
