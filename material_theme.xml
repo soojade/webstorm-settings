@@ -10,6 +10,7 @@
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="30" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
   </component>
 </application>

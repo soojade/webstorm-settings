@@ -193,12 +193,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="删除...(D)">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>删除...(D)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="声明(D)">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+ 按钮 1 单击' or ' 按钮 2 单击'</ShortCut>
           <Description>声明(D)</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="设置(T)...">
@@ -214,7 +222,15 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置...(T)</Description>
-          <Count>16</Count>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="重命名...(R)">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>重命名...(R)</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
