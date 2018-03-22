@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Random Background Image">
@@ -201,12 +201,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="在文件中查找使用(I)">
+        <Item>
+          <IdeaActionID>FindUsagesInFile</IdeaActionID>
+          <ShortCut>'Ctrl+F7'</ShortCut>
+          <Description>在文件中查找使用(I)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="在路径中替换...(A)">
         <Item>
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+R'</ShortCut>
           <Description>在路径中替换...(A)</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="声明(D)">
@@ -254,7 +262,15 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置...(T)</Description>
-          <Count>18</Count>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="运行(U) 'index.html'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>运行(U) 'index.html'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="重命名...(R)">
