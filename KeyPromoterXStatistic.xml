@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>21</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Random Background Image">
@@ -278,6 +278,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>调试(D) 'index.html'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="运行(U) 'index.html (1)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>运行(U) 'index.html (1)'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
