@@ -11,5 +11,7 @@
     <option name="tabsHeight" value="30" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="tabOpacity" value="8" />
+    <option name="monochromeIcons" value="true" />
   </component>
 </application>
