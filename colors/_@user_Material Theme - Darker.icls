@@ -4,7 +4,7 @@
     <property name="created">2017-05-14T10:22:07</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-03-01T23:06:29</property>
+    <property name="modified">2018-04-12T21:17:10</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -16,8 +16,14 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Noto Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
