@@ -241,6 +241,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="参数信息(P)">
+        <Item>
+          <IdeaActionID>ParameterInfo</IdeaActionID>
+          <ShortCut>'Ctrl+P'</ShortCut>
+          <Description>参数信息(P)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="同步(Y)">
         <Item>
           <IdeaActionID>Synchronize</IdeaActionID>
@@ -270,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+ 按钮 1 单击' or ' 按钮 2 单击'</ShortCut>
           <Description>声明(D)</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="复制(C)">
@@ -279,6 +287,22 @@
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>复制(C)</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="快捷文档(D)">
+        <Item>
+          <IdeaActionID>QuickJavaDoc</IdeaActionID>
+          <ShortCut>'Ctrl+Q' or 'Alt+ 按钮 2 单击'</ShortCut>
+          <Description>快捷文档(D)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="快速定义(K)">
+        <Item>
+          <IdeaActionID>QuickImplementations</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+I'</ShortCut>
+          <Description>快速定义(K)</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="提交(I)...">
@@ -326,7 +350,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置...(T)</Description>
-          <Count>53</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="调试(D) 'index.html'">
@@ -342,7 +366,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>运行(U) 'hello.dart'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="运行(U) 'index.html (1)'">
