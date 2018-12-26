@@ -4,7 +4,7 @@
     <property name="created">2017-05-14T10:22:07</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-05-02T16:29:33</property>
+    <property name="modified">2017-09-14T17:45:37</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -16,14 +16,8 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -54,7 +48,7 @@
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
     <option name="GUTTER_BACKGROUND" value="1e2422" />
     <option name="INDENT_GUIDE" value="297907" />
-    <option name="LINE_NUMBERS_COLOR" value="5ffd7" />
+    <option name="LINE_NUMBERS_COLOR" value="47754" />
     <option name="METHOD_SEPARATORS_COLOR" value="657a71" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
