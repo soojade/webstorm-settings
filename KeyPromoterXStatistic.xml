@@ -6,7 +6,7 @@
           <IdeaActionID>Flutter.Toolbar.ReloadAction</IdeaActionID>
           <ShortCut>'Ctrl+反斜杠'</ShortCut>
           <Description>Flutter Hot Reload</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Logcat">
@@ -86,7 +86,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>停止 'main.dart'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="切换行断点(L)">
@@ -135,6 +135,22 @@
           <ShortCut>'Ctrl+.'</ShortCut>
           <Description>折叠选中/移除区域(S)</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="显示执行点(X)">
+        <Item>
+          <IdeaActionID>ShowExecutionPoint</IdeaActionID>
+          <ShortCut>'Alt+F10'</ShortCut>
+          <Description>显示执行点(X)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="步过(O)">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>步过(O)</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="设置...(T)">
