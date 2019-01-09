@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+ 按钮 1 单击' or ' 按钮 2 单击'</ShortCut>
           <Description>声明(D)</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="复制(C)">
@@ -121,12 +121,28 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="实现(M)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+ 按钮 1 单击'</ShortCut>
+          <Description>实现(M)</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="折叠选中/移除区域(S)">
+        <Item>
+          <IdeaActionID>CollapseSelection</IdeaActionID>
+          <ShortCut>'Ctrl+.'</ShortCut>
+          <Description>折叠选中/移除区域(S)</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="设置...(T)">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>设置...(T)</Description>
-          <Count>38</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="运行(U) 'main.dart'">
@@ -134,7 +150,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>运行(U) 'main.dart'</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
     </option>
