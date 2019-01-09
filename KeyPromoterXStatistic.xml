@@ -6,7 +6,7 @@
           <IdeaActionID>Flutter.Toolbar.ReloadAction</IdeaActionID>
           <ShortCut>'Ctrl+反斜杠'</ShortCut>
           <Description>Flutter Hot Reload</Description>
-          <Count>33</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Logcat">
