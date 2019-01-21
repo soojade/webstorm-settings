@@ -2,7 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.6.4" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="highlightColor" value="00ff73" />
+    <option name="highlightColor" value="cb00ff" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
@@ -11,7 +11,7 @@
     <option name="tabsHeight" value="20" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="tabOpacity" value="70" />
+    <option name="tabOpacity" value="14" />
     <option name="userId" value="-72e2d70:16722376375:-7fff" />
     <option name="allowDataCollection" value="true" />
     <option name="isHighContrast" value="true" />
