@@ -1,0 +1,7 @@
+<templateSet group="Dart">
+  <template name="@ovrr" value="@override" description="重写@override" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>
