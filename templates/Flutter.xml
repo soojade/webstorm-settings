@@ -1,0 +1,10 @@
+<templateSet group="Flutter">
+  <template name="prb" value="class $NAME$ extends PageRouteBuilder{&#10;    final Widget widget;&#10;    $NAME$(this.widget)&#10;        :super(&#10;            pageBuilder:(&#10;                BuildContext context,&#10;                Animation&lt;double&gt; $animation1$,&#10;                Animation&lt;double&gt; $animation2$){&#10;                    return widget;&#10;                },&#10;        );&#10;}" description="自定义路由" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="dartClassName()" defaultValue="&quot;CustomRoute&quot;" alwaysStopAt="true" />
+    <variable name="animation1" expression="" defaultValue="&quot;animation1&quot;" alwaysStopAt="true" />
+    <variable name="animation2" expression="" defaultValue="&quot;animation2&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>
