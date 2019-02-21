@@ -7,4 +7,9 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="initState" value="@override&#10;void initState(){&#10;    $END$&#10;}" description="重写初始化状态" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
