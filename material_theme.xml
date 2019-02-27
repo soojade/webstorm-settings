@@ -1,23 +1,19 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.6.4" />
-    <option name="selectedTheme" value="DARKER" />
-    <option name="highlightColor" value="2eff01" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="highlightThickness" value="1" />
-    <option name="isContrastMode" value="true" />
-    <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="accentColor" value="ff8500" />
-    <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="22" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="tabOpacity" value="0" />
-    <option name="compactDropdowns" value="true" />
-    <option name="settingsSelectedTab" value="6" />
-    <option name="userId" value="-72e2d70:16722376375:-7fff" />
-    <option name="allowDataCollection" value="true" />
-    <option name="isHighContrast" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabOpacity" value="29" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="tabsHeight" value="25" />
+    <option name="accentColor" value="2979ff" />
+    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="userId" value="-53aa0066:1692e1917d7:-8000" />
+    <option name="version" value="3.5.0.1" />
   </component>
 </application>
