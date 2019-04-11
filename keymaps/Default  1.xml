@@ -1,0 +1,36 @@
+<keymap version="1" name="Default 复制 1" parent="$default">
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+</keymap>
