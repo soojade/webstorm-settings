@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="arrowsStyle" value="Arrows" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="highlightColorEnabled" value="true" />
@@ -18,10 +17,10 @@
     <option name="rightTreeIndent" value="8" />
     <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="25" />
-    <option name="accentColor" value="ff9800" />
+    <option name="accentColor" value="009688" />
     <option name="highlightColor" value="00cb1e" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-53aa0066:1692e1917d7:-8000" />
-    <option name="version" value="3.9.2" />
+    <option name="version" value="3.9.3" />
   </component>
 </application>
