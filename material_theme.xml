@@ -11,12 +11,11 @@
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="tabOpacity" value="29" />
+    <option name="tabOpacity" value="11" />
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="8" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="tabsHeight" value="25" />
+    <option name="tabsHeight" value="23" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="00cb1e" />
     <option name="selectedTheme" value="DARKER" />
