@@ -1,0 +1,7 @@
+<application>
+  <component name="CPPToolchains" version="4">
+    <toolchains detectedVersion="5">
+      <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="F:\Environment\mingw-w64\mingw64" customMakePath="F:\Environment\Cmake\bin\cmake.exe" customCCompilerPath="F:\Environment\mingw-w64\mingw64\bin\gcc.exe" customCXXCompilerPath="F:\Environment\mingw-w64\mingw64\bin\g++.exe" debuggerKind="CUSTOM_GDB" customGDBPath="F:\Environment\mingw-w64\mingw64\bin\gdb.exe" />
+    </toolchains>
+  </component>
+</application>
