@@ -1,8 +1,4 @@
-<keymap version="1" name="Default 复制" parent="$default">
-  <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
-  </action>
-  <action id="ActivateTODOToolWindow" />
+<keymap version="1" name="VSCode 复制" parent="VSCode">
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt k" />
@@ -26,11 +22,5 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt j" />
-  </action>
-  <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="shift j" />
-  </action>
-  <action id="randomBackgroundImage">
-    <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
 </keymap>
