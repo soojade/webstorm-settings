@@ -1,4 +1,4 @@
-<keymap version="1" name="VSCode 复制" parent="VSCode">
+<keymap version="1" name="VSCode 复制">
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt k" />
