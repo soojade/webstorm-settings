@@ -23,6 +23,9 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="randomBackgroundImage">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
