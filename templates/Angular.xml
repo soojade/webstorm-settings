@@ -1,0 +1,7 @@
+<templateSet group="Angular">
+  <template name="a-routerLink-param" value="[routerLink]=&quot;['$routePath$', $routeParameterValue$]&quot;&#10;routerLinkActive=&quot;$router_link-active$&quot;$END$" description="Angular routerLink with a route parameter" toReformat="true" toShortenFQNames="true">
+    <variable name="routePath" expression="" defaultValue="&quot;routePath&quot;" alwaysStopAt="true" />
+    <variable name="routeParameterValue" expression="" defaultValue="&quot;routeParameterValue&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
