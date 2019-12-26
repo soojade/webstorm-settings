@@ -6,5 +6,11 @@
       <blacklist language="Go" />
       <blacklist language="SQL" />
     </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="Angular2Html" />
+      <language id="JavaScript" />
+      <language id="Vue" />
+    </disabledLanguages>
   </component>
 </application>
