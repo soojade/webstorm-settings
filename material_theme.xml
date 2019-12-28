@@ -1,8 +1,20 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="ff9800" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="highlightThickness" value="1" />
+    <option name="tabsHeight" value="22" />
+    <option name="accentColor" value="00ff56" />
+    <option name="secondAccentColor" value="00ff56" />
+    <option name="highlightColor" value="04e914" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="1f0715cc:16f4acdae3f:-8000" />
     <option name="version" value="4.11.4" />
