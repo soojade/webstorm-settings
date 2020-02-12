@@ -4,7 +4,7 @@
     <property name="created">2019-04-30T12:50:41</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-11-20T12:08:54</property>
+    <property name="modified">2020-02-12T15:04:33</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -2180,11 +2180,46 @@
         <option name="FOREGROUND" value="c4b3a3" />
       </value>
     </option>
+    <option name="NG.BANANA_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="e400ff" />
+      </value>
+    </option>
+    <option name="NG.EVENT_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="ff00b2" />
+      </value>
+    </option>
     <option name="NG.EXPANSION_FORM">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="e90057" />
+      </value>
+    </option>
+    <option name="NG.EXPANSION_FORM_DELIMITERS">
+      <value>
+        <option name="FOREGROUND" value="1ffed" />
+      </value>
     </option>
     <option name="NG.EXPRESSIONS">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="e90057" />
+      </value>
+    </option>
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="9abff" />
+      </value>
+    </option>
+    <option name="NG.REFERENCE_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="efff5" />
+      </value>
+    </option>
+    <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffc606" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
